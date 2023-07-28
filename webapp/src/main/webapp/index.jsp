@@ -6,4 +6,5 @@ GitHub
 Jenkins
 Docker
 Ansible
-K8s</h2>
+K8s
+Google Kubernetes Engine(GKE)</h2>
