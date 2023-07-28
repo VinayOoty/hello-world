@@ -8,4 +8,6 @@ Docker
 Ansible
 Kubernetes
 GCP
+Helm
+Terraform
 Google Kubernetes Engine(GKE)</h2>
