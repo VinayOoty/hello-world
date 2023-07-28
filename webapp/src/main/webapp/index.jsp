@@ -1,9 +1,9 @@
-<h1>Welcome to DevOps Ansible Project!</h1>
-<h2>Tools used in this project are...</h2>
-<h3>===============================</h3>
-<h3>Git
+<h1>DevOps Ansible Project!</h1>
+<h2>Tools used: </h2>
+<h3>==========</h3>
+<h2>Git
 GitHub
 Jenkins
 Docker
 Ansible
-K8s</h3>
+K8s</h2>
